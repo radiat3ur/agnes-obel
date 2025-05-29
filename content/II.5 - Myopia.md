@@ -1,0 +1,1 @@
+Myope, -6,5 et son père -12, s'est récemment faite opérée (pour les concerts) mais voulait parler de la perception de la vie quand on ne voit que de tout près 
