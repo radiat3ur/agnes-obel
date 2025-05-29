@@ -1,6 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## [[I - Bio Agnès Obel]]
+## [[II.1 - Philharmornics]]
+## [[II.2 - Philharmonics Version Deluxe]]
+## [[II.3 - Aventine]]
+## [[II.4 - Citizen of Glass]]
+## [[II.5 - Myopia]]
+## [[III - Oral]]
